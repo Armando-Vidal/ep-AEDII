@@ -4,6 +4,8 @@
 #define true 1
 #define false 0
 
+//Precisa alterar o índice de aberto no código graças a atualização que o Ivandré fez que mudou o padrão que tinha antes
+
 typedef int bool;
 
 typedef int TIPOCHAVE;
